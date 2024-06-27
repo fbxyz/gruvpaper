@@ -45,7 +45,7 @@ make
 -d, --output-dir DIR : Set the output directory (default: .)
 -f, --output-file FILE : Set the output file name (default: image_with_colored_squares.png)
 -?, --help : Show help message
-and a list of values from 0 to 100, i.e. 50 130 70 90 65
+and a list of values from 0 to 100, i.e. 50 100 70 90 65
 ```
 
 ## Example
@@ -62,7 +62,7 @@ and a list of values from 0 to 100, i.e. 50 130 70 90 65
   -e "#504945" \
   -r "#665C54" \
   -c "#458588,#689D6A,#98971A,#D79921,#D65D0E" \
-  50 130 70 90 65
+  50 100 70 90 65
 
 ```
 

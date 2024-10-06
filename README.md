@@ -14,7 +14,7 @@ Inspired by this [Gruvbox wallpaper](https://wallpaperaccess.com/full/8207835.pn
 
 1. Clone the repository:
 ```shell
-git clone https://github.com/your-username/gruvpaper.git
+git clone https://github.com/fbxyz/gruvpaper.git 
 cd gruvpaper
 ```
    
